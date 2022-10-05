@@ -16,3 +16,5 @@ In the Disaster Management Robot folder, I had created a live data line chart us
 I have created a Tableau Dashboard on Analysis of Air Pollution which consists of four different charts. This chart is also interactive and you can highlight a specific marks by clicking on it.
 The link to that Dashboard is given below
 https://public.tableau.com/app/profile/keval.shah1572/viz/AirPollutionAnalysis_16649271030290/Dashboard1?publish=yes 
+
+I have also worked with Python libraries such as Pandas and Matplotlib to create some insightful graphs. I have included a jupyter notebook, a csv file and a image of the visualization inside the Python folder. To run the notebook, you might have to open the notebok in a Google Colab.
