@@ -1,0 +1,12 @@
+.myContainer {
+background-image: url('data/bmw-vs-mercedes.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+font-family: 'Trebuchet MS', sans-serif;
+font-size: 15px;
+font-weight: 300;
+fill: #242424;
+text-align: center;
+cursor: default;
+}
