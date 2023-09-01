@@ -52,7 +52,7 @@ This project involves creating an interactive lollipop chart using D3.js to visu
 - Ensure that the visualization resembles the provided example screenshot.
 
 ### Example Image
-- ![Reload](https://github.com/kevalshah13/Data-Visualization/blob/main/D3.js/Visualization-1/img/completed.png)
+![Reload](https://github.com/kevalshah13/Data-Visualization/blob/main/D3.js/Visualization-1/img/completed.png)
 
 ## Project Outcome
 
