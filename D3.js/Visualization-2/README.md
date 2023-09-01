@@ -72,9 +72,9 @@ The data for your visualizations will come from the text entered into the `texta
 
 Upon completing this interactive D3.js data visualization assignment, you will achieve the following project outcomes:
 
-- Dynamic Data Visualization: You will gain the ability to dynamically create and parse datasets of characters from user-inputted text using JavaScript. These datasets will be visualized through interactive charts.
-- Donut Chart: You will successfully implement a donut chart that visually depicts the distribution of different character types (consonants, vowels, punctuation) within the submitted text. Users can interact with the chart to gain insights into the composition of characters.
-- Bar Chart Linking: By clicking on specific arcs in the donut chart, you will trigger the generation of a linked bar chart. This bar chart will display character counts based on the selected arc, offering users a comprehensive view of character frequency.
-- User Interaction: The interface will empower users to explore and analyze the entered text by engaging with the interactive charts. Hovering over arcs and bars will provide additional information, enriching the user experience.
-- Tooltips: You will successfully integrate interactive tooltips into the bar chart, enabling users to view precise character counts as they hover over individual bars. This feature will significantly enhance the usability of the interface.
+- **Dynamic Data Visualization:** You will gain the ability to dynamically create and parse datasets of characters from user-inputted text using JavaScript. These datasets will be visualized through interactive charts.
+- **Donut Chart:** You will successfully implement a donut chart that visually depicts the distribution of different character types (consonants, vowels, punctuation) within the submitted text. Users can interact with the chart to gain insights into the composition of characters.
+- **Bar Chart Linking:** By clicking on specific arcs in the donut chart, you will trigger the generation of a linked bar chart. This bar chart will display character counts based on the selected arc, offering users a comprehensive view of character frequency.
+- **User Interaction:** The interface will empower users to explore and analyze the entered text by engaging with the interactive charts. Hovering over arcs and bars will provide additional information, enriching the user experience.
+- **Tooltips:** You will successfully integrate interactive tooltips into the bar chart, enabling users to view precise character counts as they hover over individual bars. This feature will significantly enhance the usability of the interface.
 
