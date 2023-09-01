@@ -9,7 +9,6 @@ This project involves creating an interactive lollipop chart using D3.js to visu
 ### HTML Setup
 
 - Create an HTML file with a designated area for the visualization.
-- Add your name and email to the head section of the HTML file.
 
 ### SVG Setup
 
@@ -22,7 +21,7 @@ This project involves creating an interactive lollipop chart using D3.js to visu
 
 ### Data Loading and Wrangling
 
-- Load the `females_data.csv` and `males_data.csv` datasets.
+- Load the `females_data.csv` and `males_data.csv` datasets from data folder.
 - Convert the data attributes from string to numeric format for the selected countries.
 
 ### Axis Creation
@@ -52,9 +51,8 @@ This project involves creating an interactive lollipop chart using D3.js to visu
 - Test the chart with various country selections to ensure proper functionality.
 - Ensure that the visualization resembles the provided example screenshot.
 
-### Submission
-
-- Commit and push your completed code to the repository by the submission deadline.
+### Example Image
+- ![Reload](https://github.com/kevalshah13/Data-Visualization/blob/main/D3.js/Visualization-1/img/completed.png)
 
 ## Project Outcome
 
